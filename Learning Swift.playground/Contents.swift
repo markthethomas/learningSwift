@@ -25,3 +25,8 @@ let minValue = UInt8.min  // minValue is equal to 0, and is of type UInt8
 let maxValue = UInt8.max
 
 let biggerNumber = UInt.max
+
+//Doubles and flots
+let double = 3.000001 // double 64-bit floating-point number
+let float = 2.3001 // float 32-bit floating-point number
+var example = 1.1 // inferred double
